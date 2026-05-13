@@ -6,7 +6,7 @@
  * used to parse arguments, generate passwords, and evaluate their quality.
  *
  * @author < Heitor Gomes de Sena Melo Mariz | marizheitor@gmail.com
- *           Guilherme Soares Fialho Ribeiro Dantas | guilhermefialho@gmail.com >
+ *           Guilherme Soares Fialho Ribeiro Dantas | guilhermefialho1208@gmail.com >
  * @date   21/04/2026
  */
 
