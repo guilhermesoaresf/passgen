@@ -9,7 +9,7 @@ entropia e classificada em 6 categorias.
 # Author(s)
 
 - Nome: Heitor Gomes de Sena Melo Mariz | Guilherme Soares Fialho Ribeiro Dantas
-- Email: marizheitor@gmail.com | guilhermefialho@gmail.com 
+- Email: marizheitor@gmail.com | guilhermefialho1208@gmail.com 
 
 # Problems found or limitations
 
